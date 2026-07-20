@@ -1,4 +1,4 @@
-# Hi, I'm Shubham Yaduvanshi
+# Hi, I'm Shubham
 
 ## Social Media Head | Social Media Strategist | Growth Strategist | SEO Specialist
 

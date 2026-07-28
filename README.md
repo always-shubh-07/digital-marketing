@@ -139,8 +139,11 @@ Responsible for planning, coordinating, reviewing, and executing digital campaig
 Increase online sales, improve conversion rates, and enhance the customer shopping experience.
 
 My Responsibilities
+
 Product Listing Optimization
+
 SEO for Product Pages
+
 Landing Page Optimization
 
 ---

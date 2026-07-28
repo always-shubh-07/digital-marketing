@@ -130,9 +130,9 @@ Responsible for planning, coordinating, reviewing, and executing digital campaig
 | ----------------------- | --------------: |
 | **Campaign Budget**     | ₹30,000 / Month |
 | **Leads Generated**     |            250+ |
-| **Cost Per Lead (CPL)** |            ₹120 |
-| **Average CTR**         |        **2.8%** |
-| **Conversion Rate**     |        **8.5%** |
+| **Cost Per Lead (CPL)** |             ₹46 |
+| **Average CTR**         |        **2.6%** |
+| **Conversion Rate**     |        **10–12%** |
 
 
 ## E-commerce Growth & Sales Optimization

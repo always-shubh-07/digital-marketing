@@ -125,6 +125,24 @@ Responsible for planning, coordinating, reviewing, and executing digital campaig
 | **Growth**            |         **+175%** 🚀 |
 
 
+## Meta Ads Performance
+| Metric                  |           Value |
+| ----------------------- | --------------: |
+| **Campaign Budget**     | ₹30,000 / Month |
+| **Leads Generated**     |            250+ |
+| **Cost Per Lead (CPL)** |            ₹120 |
+| **Average CTR**         |        **2.8%** |
+| **Conversion Rate**     |        **8.5%** |
+
+
+## E-commerce Growth & Sales Optimization
+Increase online sales, improve conversion rates, and enhance the customer shopping experience.
+
+My Responsibilities
+Product Listing Optimization
+SEO for Product Pages
+Landing Page Optimization
+
 ---
 
 # Professional Skills

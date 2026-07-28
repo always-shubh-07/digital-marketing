@@ -121,7 +121,7 @@ Responsible for planning, coordinating, reviewing, and executing digital campaig
 | Metric                |                Value |
 | --------------------- | -------------------: |
 | **Before**            |   800 visitors/month |
-| **After (12 Months)** | 2,200 visitors/month |
+| **After (12 Months)** | 2,000+ visitors/month |
 | **Growth**            |         **+175%** 🚀 |
 
 **✅ Improved organic search visibility by securing first-page Google rankings for multiple target keywords through strategic keyword research, on-page optimization, and technical SEO. These improvements enhanced search performance, increased qualified traffic, and strengthened the website's overall online presence.**

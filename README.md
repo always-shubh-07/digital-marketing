@@ -115,6 +115,17 @@ Responsible for planning, coordinating, reviewing, and executing digital campaig
 - Digital Presence
 
 ---
+# Marketing Impact & Results
+## Organic Traffic
+
+| Metric                |                Value |
+| --------------------- | -------------------: |
+| **Before**            |   800 visitors/month |
+| **After (12 Months)** | 2,200 visitors/month |
+| **Growth**            |         **+175%** 🚀 |
+
+
+---
 
 # Professional Skills
 
